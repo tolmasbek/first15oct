@@ -6,4 +6,5 @@ import (
 
 func main() {
 	fmt.Println("ftt Git Hub!!")
+	fmt.Println("Farmonov Tolmasbek")
 }
